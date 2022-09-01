@@ -34,12 +34,12 @@ Module({
   var buttons = [{
     urlButton: {
         displayText: 'Github',
-        url: 'https://github.com/souravkl11/raganork'
+        url: 'https://github.com/Darkside88hacker/Darksidemimo'
     }
 }, {
   urlButton: {
     displayText: 'Contact Owner',
-    url: 'https://wa.me/'+BOT_INFO.split(";")[2]+'?text=*Hey+'+BOT_INFO.split(";")[1]+'*'
+    url: 'https://wa.me/+263780538705.split(";")[2]+'?text=*Hey+'Darkside.split(";")[1]+'*'
     }
 }, {
     quickReplyButton: {
@@ -77,10 +77,10 @@ if (setarr[i].use === 'utility') {
   utilmsg += `┃❉│ ${Math.floor(parseInt(i)+1)}. ${setarr[i].pattern.toString().match(/(\W*)([A-Za-zğüşıiöç1234567890 ]*)/)[2]} \n`
 }
 }
-  var menu = `╭═══〘 ${BOT_INFO.split(";")[0]} 〙═══⊷❍
+  var menu = `╭═══〘 ${Mitsuki.split(";")[0]} 〙═══⊷❍
 ┃❉╭──────────────
 ┃❉│
-┃❉│ Owner : ${BOT_INFO.split(";")[1]}
+┃❉│ Owner : ${Darkside and Juice Lady.split(";")[1]}
 ┃❉│ User : ${message.senderName}
 ┃❉│ Mode : ${MODE}
 ┃❉│ Server : ${config.HEROKU.APP_NAME}
@@ -88,11 +88,11 @@ if (setarr[i].use === 'utility') {
 ┃❉│ Available RAM: ${used}
 ┃❉│ Disk Space: 620 GB
 ┃❉│ Version: ${config.VERSION}
-┃❉│
-┃❉│
+┃❉│ Bot Name: Mitsuki Mimo
+┃❉│ I'm here to take over Mimo's Work he has suffered a great loss 
 ┃❉│  ▎▍▌▌▉▏▎▌▉▐▏▌▎
 ┃❉│  ▎▍▌▌▉▏▎▌▉▐▏▌▎
-┃❉│   ${BOT_INFO.split(";")[0]}
+┃❉│   ${Mitsuki.split(";")[0]}
 ┃❉│ 
 ┃❉╰───────────────
 ╰═════════════════⊷
