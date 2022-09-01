@@ -1,9 +1,9 @@
 {
 	"name": "Deploy",
-	"description": "Darkside Bot.",
+	"description": "Darkside Mimo.",
 	"keywords": [
-		"whatsapp",
-		"bot"
+		"Darkside",
+		"mimo"
 	],
 	"repository": "https://github.com/Darkside88hacker/Darksidemimo",
 	"stack": "container",
